@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 64b373dc9644b9c47b9180ddbb7cfa66
+timeCreated: 1472502158
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cannon_down
+    100002: //RootNode
+    100004: cannon_small_upgrade_01_001
+    100006: cannon_small_upgrade_02a
+    100008: cannon_small_upgrade_02b
+    100010: cannon_small_upgrade_03a
+    100012: cannonball
+    100014: cannon_small_upgrade_01
+    100016: cannon_small_upgrade_03b
+    400000: cannon_down
+    400002: //RootNode
+    400004: cannon_small_upgrade_01_001
+    400006: cannon_small_upgrade_02a
+    400008: cannon_small_upgrade_02b
+    400010: cannon_small_upgrade_03a
+    400012: cannonball
+    400014: cannon_small_upgrade_01
+    400016: cannon_small_upgrade_03b
+    2300000: cannon_down
+    2300002: cannon_small_upgrade_01_001
+    2300004: cannon_small_upgrade_02a
+    2300006: cannon_small_upgrade_02b
+    2300008: cannon_small_upgrade_03a
+    2300010: cannonball
+    2300012: cannon_small_upgrade_01
+    2300014: cannon_small_upgrade_03b
+    3300000: cannon_down
+    3300002: cannon_small_upgrade_01_001
+    3300004: cannon_small_upgrade_02a
+    3300006: cannon_small_upgrade_02b
+    3300008: cannon_small_upgrade_03a
+    3300010: cannonball
+    3300012: cannon_small_upgrade_01
+    3300014: cannon_small_upgrade_03b
+    4300000: cannonball
+    4300002: cannon_small_upgrade_03a
+    4300004: cannon_down
+    4300006: cannon_small_upgrade_02b
+    4300008: cannon_small_upgrade_02a
+    4300010: cannon_small_upgrade_01_001
+    4300012: cannon_small_upgrade_01
+    4300014: cannon_small_upgrade_03b
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
