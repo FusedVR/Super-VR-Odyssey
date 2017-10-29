@@ -20,8 +20,8 @@ public class HatToss : MonoBehaviour {
     public void OnTossed() {
         wee.Play();
         Vector3 initalVelocity = rigid.velocity;
-        transform.rotation = Quaternion.Euler(Vector3.up * transform.eulerAngles.y);
-        rigid.angularVelocity = Vector3.up * initalVelocity.sqrMagnitude;
+        transform.rotation = Quaternion.Euler(Vector3.up * transform.eulerAngles.y); // rotate the hat to be prepenidicular to gravity regardless of the angle we throw
+        rigid.angularVelocity = Vector3.up * initalVelocity.sqrMagnitude; //set the angular rotation around the y-axis with speed based on the throwing velocity
         StopAllCoroutines();
         StartCoroutine(Return(initalVelocity));
     } 
